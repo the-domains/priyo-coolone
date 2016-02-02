@@ -1,14 +1,29 @@
+name: 'Priyo Coolone '
+favicon: null
 layout_spectrum: 0.5807717
+typography_spectrum: 0.3178375
+title: Priyo Coolone
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.007668941
-  lightness: 0.1675715
-  brandStrength: 0.4221736
   brandColors:
     - '#1F171E'
     - '#E7D89A'
     - '#F30E1F'
     - '#999AB5'
     - '#F39B06'
+  brandStrength: 0.4221736
+  lightness: 0.1675715
+  saturation: 0.007668941
   rhythmicContrast: 0.4927709
-typography_spectrum: 0.3178375
-name: 'Priyo Coolone '
+purpose: []
