@@ -4,7 +4,7 @@
         <description><![CDATA[Priyo Coolone]]></description>
         <link>https://thegrid.ai/priyo-coolone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 11:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 11:05:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/priyo-coolone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/priyo-coolone/837a88c1-c238-466f-a1eb-7c4748f5be03/index.html</link>
             <guid isPermaLink="false">837a88c1-c238-466f-a1eb-7c4748f5be03</guid>
             <pubDate>Wed, 03 Feb 2016 11:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coolone | Instant Cooling Towel]]></title>
+            <description><![CDATA[<article><h1>Coolone | Instant Cooling Towel</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97c320cc90856c96e9171314d1645d133a03b98e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/priyo-coolone/coolone-or-instant-cooling-towel/index.html</link>
+            <guid isPermaLink="false">efce32ac-a2b0-4f32-aa84-092e601e3315</guid>
+            <pubDate>Fri, 12 Feb 2016 11:05:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
