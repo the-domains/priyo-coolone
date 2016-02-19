@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Coolone instant cooling towel, absorbs liquids (e.g sweat, water) and cools instantly'
-datePublished: '2016-02-12T11:07:26.384Z'
-dateModified: '2016-02-12T11:07:22.276Z'
+datePublished: '2016-02-19T07:40:05.836Z'
+dateModified: '2016-02-19T07:39:56.289Z'
 title: 'Coolone | Instant Cooling Towel'
 author: []
 sourcePath: _posts/2016-02-12-coolone-or-instant-cooling-towel.md
@@ -22,10 +22,10 @@ url: coolone-or-instant-cooling-towel/index.html
 _type: Article
 
 ---
-Coolone | Instant Cooling Towel
+# Coolone | Instant Cooling Towel
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f32c6ea-c705-4ebc-a736-66a55c8ea3bf.jpg)
 
-Best Seller COOLONE instant cooling towel
+**Best Seller COOLONE instant cooling towel**
 
 Bereaksi terhadap air dan menjadi dingin dalam hitungan detik.
 
@@ -33,20 +33,20 @@ Penyerapan air yang sempurna, Fashionable Sporty
 
 Cool Down 20' - 25'
 
-ORDERS NOW!
+## ORDERS NOW!
 
-BEAT THE BEST
+**BEAT THE BEST**
 
-TO BE THE BEST
+**TO BE THE BEST**
 
-\* When dry, absorbs sweat
+* When dry, absorbs sweat
 
-\* When wet, cools instantly
+* When wet, cools instantly
 
-\* UPF 50 protection from the sun
+* UPF 50 protection from the sun
 
-\* Reusable, machine washable
+* Reusable, machine washable
 
-ORDERS NOW
+**ORDERS NOW**
 
-Priyo | WA: 081385850102
+**Priyo | WA: 081385850102**
