@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Panduan lari sederhana yang akan memotivasi latihan Anda.
-datePublished: '2016-02-19T07:36:47.502Z'
-dateModified: '2016-02-19T07:36:47.153Z'
+datePublished: '2016-02-22T08:00:12.266Z'
+dateModified: '2016-02-22T08:00:11.465Z'
 title: 10 Tips Untuk Pelari Pemula
 author: []
 sourcePath: _posts/2016-02-18-10-tips-untuk-pelari-pemula.md
