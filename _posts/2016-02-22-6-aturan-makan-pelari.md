@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 6 aturan makan yang baik bagi pelari
-datePublished: '2016-02-22T11:20:06.640Z'
-dateModified: '2016-02-22T11:19:45.928Z'
+datePublished: '2016-02-25T02:12:53.975Z'
+dateModified: '2016-02-22T11:20:13.361Z'
 title: 6 Aturan Makan Pelari
 author: []
+sourcePath: _posts/2016-02-22-6-aturan-makan-pelari.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-6-aturan-makan-pelari.md
-published: true
 url: 6-aturan-makan-pelari/index.html
 _type: Article
 
