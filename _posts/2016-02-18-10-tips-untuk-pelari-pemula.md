@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Panduan lari sederhana yang akan memotivasi latihan Anda.
-datePublished: '2016-02-22T08:00:12.266Z'
-dateModified: '2016-02-22T08:00:11.465Z'
+datePublished: '2016-02-25T02:13:12.972Z'
+dateModified: '2016-02-25T02:13:12.073Z'
 title: 10 Tips Untuk Pelari Pemula
 author: []
 sourcePath: _posts/2016-02-18-10-tips-untuk-pelari-pemula.md
@@ -25,7 +25,7 @@ _type: Article
 # 10 Tips Untuk Pelari Pemula
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdd8ae8c-9029-4eee-a354-410ad19534d6.jpg)
 
-Berikut adalah 10 tips dari para pelari professional maupun pelari normal. 10Saran berikut akan sangat membantu anda para pelari pemula yang baru memulai olah raga lari ataupun yang sedang meningkatkan kemampuan berlari anda.
+Berikut adalah 10 tips dari para pelari professional maupun pelari normal. 10 Saran berikut akan sangat membantu anda para pelari pemula yang baru memulai olah raga lari ataupun yang sedang meningkatkan kemampuan berlari anda.
 
 ## 1\. Investasilah pada sepatu yang tepat.
 
