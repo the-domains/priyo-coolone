@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Coolone instant cooling towel, absorbs liquids (e.g sweat, water) and cools instantly'
-datePublished: '2016-02-19T07:40:05.836Z'
-dateModified: '2016-02-19T07:39:56.289Z'
+datePublished: '2016-02-25T02:17:28.530Z'
+dateModified: '2016-02-25T02:14:56.618Z'
 title: 'Coolone | Instant Cooling Towel'
 author: []
 sourcePath: _posts/2016-02-12-coolone-or-instant-cooling-towel.md
