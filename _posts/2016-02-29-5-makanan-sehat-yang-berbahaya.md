@@ -6,26 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 5 Makanan berikut sebenarnya tidak baik untuk Anda.
-datePublished: '2016-02-29T11:32:37.448Z'
-dateModified: '2016-02-29T11:32:18.399Z'
+datePublished: '2016-03-01T11:32:59.797Z'
+dateModified: '2016-03-01T11:32:04.584Z'
 title: 5 Makanan Sehat yang Berbahaya
 author: []
+sourcePath: _posts/2016-02-29-5-makanan-sehat-yang-berbahaya.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-5-makanan-sehat-yang-berbahaya.md
-published: true
 url: 5-makanan-sehat-yang-berbahaya/index.html
 _type: Article
 
 ---
 # 5 Makanan Sehat yang Berbahaya
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c56d6df-afe0-43c3-a452-130eee4d81be.jpg)
-
-## 
 
 ## Makanan sehat berikut sebenarnya buruk untuk Anda.
 
